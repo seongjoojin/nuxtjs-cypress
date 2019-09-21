@@ -1,5 +1,7 @@
 # nuxtjs-cypress
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/seongjoojin/nuxtjs-cypress.svg)](https://greenkeeper.io/)
+
 > My swell Nuxt.js project
 
 ## Build Setup
